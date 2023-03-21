@@ -123,4 +123,3 @@ Screenshots
 
 * * * * *
 
-With these changes, your README.md should flow better and look more professional. Feel free to make any additional adjustments as needed.
