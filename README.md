@@ -26,7 +26,7 @@ Follow these steps to install and set up the GPT-4 Slack bot:
 
 ### A. Deploy to Heroku
 
-1.  Clone the repository to your local machine by running `git clone https://github.com/your-username/your-repo-name.git`, replacing `your-username` and `your-repo-name` with the appropriate values.
+1.  Clone the repository to your local machine by running `git clone https://github.com/pdxhs/gpt-4-slack-bot-integration/gpt-4-slack-bot-integration.git`, replacing `your-username` and `your-repo-name` with the appropriate values.
 2.  Navigate to your project's local directory using the terminal.
 3.  Create a new Heroku app at <https://dashboard.heroku.com/new-app>.
 4.  Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) if you haven't already.
